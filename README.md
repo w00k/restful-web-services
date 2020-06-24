@@ -6,7 +6,7 @@ Run vscode with remote container on jvm 11 with spring boot.
 
 2.- Install extension vscjava.vscode-java-pack and pivotal.vscode-boot-dev-pack
 
-3.- You need download docker images from jvm 11 on dockerhub (link https://hub.docker.com/u/w00kyx/content/sub-d10b0d18-6870-4770-9650-066bae46d587?ref=login)
+3.- You need download docker images from jvm 11 on dockerhub (link https://hub.docker.com/_/oracle-jdk)
 
 $ docker pull store/oracle/jdk:11
 
